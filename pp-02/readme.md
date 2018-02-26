@@ -10,7 +10,7 @@ also practice submitting a pull request.
 you will use to communicate (e.g., your own Basecamp project [NOT the class-wide one], Slack,
 Trello, or something else).
 
-Write the name of the service your group has decided to use:
+Write the name of the service your group has decided to use: Basecamp, Groupme
 
 2. In your project coordination software of choice, discuss and choose one member who will create
 the free GitHub Organization account for your team. That member can click the + (plus sign) next to
@@ -22,21 +22,29 @@ Initializing it on GitHub with a `README.md` file is fine, unless you’ve alrea
 on a group member’s computer. **That will be your shared repository for Project 2.**
 
 3. List the names of your group members here:
+Elijah Irizarry
+Abigail Boyer
+Davon Branch
+Jarron Bailey
 
 4. Copy and paste the URL for your group’s GitHub organization here:
-
+https://github.com/WebDev362
 5. Copy and paste the URL for your group’s shared repository here:
-
+https://github.com/WebDev362/362Project2
 6. Each member of the group should fork the repository (including the group member whose account
 was used to create the GitHub organization for your project).
 
 Write the URL for your personal fork of the repository here:
-
+https://github.com/Eirizarr/362Project2
 7. Each member of the group should clone their forked copy of the repository to his/her computer.
 Once you have cloned the forked copy, you should add the *group* repository as a second remote. Run
 `git remote add group` followed by the URL for your group’s repository.
 
 Write or paste the output of `git remote -v` from your copy of the forked repository here:
+group   https://github.com/WebDev362/362Project2 (fetch)
+group   https://github.com/WebDev362/362Project2 (push)
+origin  https://github.com/Eirizarr/362Project2.git (fetch)
+origin  https://github.com/Eirizarr/362Project2.git (push)
 
 8. Next, each group member should add to the `README.md` file his/her name, and a brief few
 sentences of what the member believes are his/her primary strengths. Prior to doing that, be sure to
@@ -47,4 +55,4 @@ strengths. Add and commit your own work, and push to your own repository (`git p
 repository. Each group member should review the request before it is merged, and then pull from the
 group repository to have a complete, up-to-date `README.md` file.
 
-Write the URL of your pull request here:
+Write the URL of your pull request here: https://github.com/WebDev362/362Project2/pull/2/commits/737131fd55cb1e57bf4be052dcdff45773725026
