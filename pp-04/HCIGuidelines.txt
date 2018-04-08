@@ -1,0 +1,20 @@
+HCI Guidline One (URL):https://developer.apple.com/ios/human-interface-guidelines/visual-design/adaptivity-and-layout/
+
+How you implemented it in your sketch:
+Since, the login is the main reason for this page, I made it aparent on the page that this was important.
+I made it larger to convey that it is important. This will apply on mutliple mobile devices
+and ipads. It also will be a similar layout in landscape or protrait. Make that login big.
+
+HCI Guidline Two (URL):https://developer.apple.com/ios/human-interface-guidelines/app-architecture/navigation/
+
+How you implemented it in your sketch:
+I made navigation much more simple for the user, than just searching the page for links. I added a navigation bar at the tp of the page.
+that will then send them to different pages such as Support Info, Policies, and services. This is way better than the current version where you
+have to scroll through the page looking for links. I also condensed the content into a tab bar, that the user can pull out or get
+rid of by clicking on it. To give them the option to look at more info or not. This is all to make the app more user friendly and let
+them find information quickly.
+
+HCI Guidline Three (URL):https://developer.apple.com/ios/human-interface-guidelines/app-architecture/loading/
+
+When a user enters thier data they schould be able to see if it worked or not. If a user entered thier info correctly, they will see
+a loading or spinner showing that the login page is loading your information, to show the screen is not frozen.
