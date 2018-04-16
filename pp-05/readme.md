@@ -15,18 +15,18 @@ your own master usability checklist.
 
 * URLs for the usability checklists you've found:
 
-1.
-2.
+1.http://www.uxbooth.com/articles/quick-usability-checklist/
+2.https://en.ryte.com/magazine/usability-checklist-for-successful-websites
 
 * Your own condensed, ten-item must-have usability checklist:
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. A very fast Loading time that is under 3 seconds.
+2. Font Size and Spacing
+3. Make it clear what is important by Size and Color
+4. Information is easy to find, without the page being cluttered.
+5. A very clear Navigation
+6. A planned Color design that is followed consistently
+7. Well created, simple JS that serves a purpose
+8. Keep popups to a minimum
+9. Well structured content and paragrpahs, with Headings
+10. Only ask for information necessary, don't ask for to much in forms
